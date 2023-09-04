@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "firstName": "Shalini",
+      "lastName": "Maurya",
+      "dob": "2016-06-14T18:30:00.000Z",
+      "email": "shalini123@gmail.com",
+      "gender": "Female",
+      "experience": 4,
+      "education": "Graduation",
+      "address": "Varanasi",
+      "mobNumber": "7355605740",
+      "id": 1
+    },
+    {
+      "firstName": "gaurav",
+      "lastName": "maurya",
+      "dob": "2023-09-04T18:30:00.000Z",
+      "email": "dskka@gksk",
+      "gender": "Other",
+      "experience": 0,
+      "education": "Metric",
+      "address": "lko",
+      "mobNumber": "0000000000",
+      "id": 2
+    }
+  ]
+}
