@@ -1,6 +1,9 @@
-# Crud
+# CRUD
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+ CRUD operation using Angular Material UI components with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+ 
+ CRUD stands for the four functions create, read, update, and delete in computer programming. They are used to implement persistent storage applications: I have 
+ build an Empolyee details App with CRUD operation with the help of Angular Maetrial UI.
 
 ## Development server
 
